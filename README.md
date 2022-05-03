@@ -14,7 +14,7 @@ You can download the executable for windows form the Releases page.
 2. Run `npm install`
 3. Either run directly or build an executable.
     1. Source: run `npm start`.
-    2. Build executable: run `npm run make`.  
+    2. Build executable: run `npm run pack`.  
     Execute the built .exe file in the `out/` folder.
 
 ## Usage

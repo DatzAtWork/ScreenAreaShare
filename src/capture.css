@@ -21,7 +21,7 @@ body {
 
 .outer {
   position: absolute;
-  border: solid 10px;
+  border: solid 3px;
   top: 0px;
   left: 0px;
   width: 100%;
